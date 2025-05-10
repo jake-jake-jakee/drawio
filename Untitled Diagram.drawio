@@ -1,23 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="lvZPzRQ9xBgecxqEHYSW">
-    <mxGraphModel dx="4338" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5243" dy="2294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jiWG33mtaCor1uyyTD07-164" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-613.98" y="35.94" width="753.98" height="289.83" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="350" width="1139.12" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="468.13" width="410" height="231.87" as="geometry" />
+        </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jiWG33mtaCor1uyyTD07-3" target="jiWG33mtaCor1uyyTD07-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="520.55" y="40" width="118.89" height="74.9" as="geometry" />
+          <mxGeometry x="520.38" y="185.94" width="118.89" height="74.9" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jiWG33mtaCor1uyyTD07-6" target="jiWG33mtaCor1uyyTD07-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-6" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall2;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="515.99" y="190" width="128" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="350" width="1139.12" height="970" as="geometry" />
+          <mxGeometry x="169.99999999999997" y="390" width="128" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jiWG33mtaCor1uyyTD07-2" target="jiWG33mtaCor1uyyTD07-19">
           <mxGeometry relative="1" as="geometry" />
@@ -34,13 +40,12 @@
         <mxCell id="jiWG33mtaCor1uyyTD07-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jiWG33mtaCor1uyyTD07-2" target="jiWG33mtaCor1uyyTD07-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="539" />
-              <mxPoint x="660" y="539" />
+              <mxPoint x="250" y="539" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-2" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="266.6481692844759" y="432.8825" width="127.86063925806711" height="138.0625" as="geometry" />
+          <mxGeometry x="139.9981692844759" y="548.1225" width="127.86063925806711" height="138.0625" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="654.87" y="350" width="1139.12" height="970" as="geometry" />
@@ -66,7 +71,7 @@
         <mxCell id="jiWG33mtaCor1uyyTD07-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jiWG33mtaCor1uyyTD07-2" target="jiWG33mtaCor1uyyTD07-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-506" y="490" />
+              <mxPoint x="-506" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -379,20 +384,17 @@
         <mxCell id="jiWG33mtaCor1uyyTD07-133" value="VLAN 40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=31;" vertex="1" parent="1">
           <mxGeometry x="1620.003694478006" y="725.9425000000001" width="174.35541717009153" height="44.0625" as="geometry" />
         </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="468.13" width="410" height="231.87" as="geometry" />
-        </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-138" value="VLAN 55" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=31;" vertex="1" parent="1">
+        <mxCell id="jiWG33mtaCor1uyyTD07-138" value="VLAN 50" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=31;" vertex="1" parent="1">
           <mxGeometry x="-389.9963055219939" y="435.0625000000001" width="174.35541717009153" height="44.0625" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-139" value="VLAN 99" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=31;" vertex="1" parent="1">
-          <mxGeometry x="634.4836944780061" y="217.97250000000008" width="174.35541717009153" height="44.0625" as="geometry" />
+          <mxGeometry x="306.9036944780061" y="401.0525000000001" width="174.35541717009153" height="44.0625" as="geometry" />
         </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-144" value="Core Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="144.49" y="391" width="213.67" height="44.06" as="geometry" />
+        <mxCell id="jiWG33mtaCor1uyyTD07-144" value="Core Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="40" width="213.67" height="44.06" as="geometry" />
         </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-145" value="Distribution Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="756.66" y="424.07" width="333.72" height="44.06" as="geometry" />
+        <mxCell id="jiWG33mtaCor1uyyTD07-145" value="Distribution Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-291.6200000000001" y="190" width="333.72" height="44.06" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-146" value="cat6 ethernet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="-130" y="460" width="213.67" height="44.06" as="geometry" />
@@ -400,17 +402,86 @@
         <mxCell id="jiWG33mtaCor1uyyTD07-147" value="fiber uplink" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="472.99" y="504.06" width="213.67" height="44.06" as="geometry" />
         </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-148" value="Router with Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=31;" vertex="1" parent="1">
-          <mxGeometry x="358.1636944780061" y="217.97250000000008" width="174.35541717009153" height="44.0625" as="geometry" />
+        <mxCell id="jiWG33mtaCor1uyyTD07-148" value="Router with Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-335.67999999999995" y="262.03" width="421.84" height="44.06" as="geometry" />
         </mxCell>
         <mxCell id="jiWG33mtaCor1uyyTD07-149" value="ISP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=31;" vertex="1" parent="1">
-          <mxGeometry x="600.0036944780061" y="60.00250000000008" width="174.35541717009153" height="44.0625" as="geometry" />
+          <mxGeometry x="620.0036944780061" y="201.3625000000001" width="174.35541717009153" height="44.0625" as="geometry" />
         </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-150" value="file server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="577.9699999999999" width="110" height="44.06" as="geometry" />
+        <mxCell id="jiWG33mtaCor1uyyTD07-151" value="VoIP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-584" y="185.94000000000003" width="213.67" height="44.06" as="geometry" />
         </mxCell>
-        <mxCell id="jiWG33mtaCor1uyyTD07-151" value="VoIP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="650" width="213.67" height="44.06" as="geometry" />
+        <mxCell id="jiWG33mtaCor1uyyTD07-154" value="Printer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-537.44" y="257.01000000000005" width="137.44" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-155" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
+          <mxGeometry x="-82" y="1270" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-156" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
+          <mxGeometry x="1212.43" y="1280" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-157" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="40" width="58.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-158" value="Workstation Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-533.44" y="41.94" width="217.44" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-160" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-580.6" y="90" width="40" height="75.1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-161" value="File Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="104.07" width="220" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-163" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.phone_voip;" vertex="1" parent="1">
+          <mxGeometry x="-587.82" y="182.97" width="57.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-165" value="" style="shape=mxgraph.cisco.computers_and_peripherals.printer;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-591" y="262.03999999999996" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-166" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-285.95" y="40" width="46.23" height="48.07" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-167" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="-291.62" y="103.04999999999995" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-168" value="Computer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="103.04999999999995" width="213.67" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-169" value="" style="shape=mxgraph.cisco.switches.layer_2_remote_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="190" width="70" height="42.04" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-170" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall2;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="-291.62" y="261.07" width="51.2" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-171" value="192.168.10.0/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="725.96" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-172" value="192.168.20.0/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="38.50999999999999" y="725.96" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-173" value="192.168.30.0/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="682.18" y="725.93" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-174" value="192.168.40.0/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1332.18" y="725.96" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-175" value="192.168.50.0/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-637.82" y="435.06" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-176" value="192.168.99.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="311.85999999999984" y="435.06" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-177" value="192.168.50.10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-637.8200000000002" y="661" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-178" value="192.168.50.20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-414.82000000000016" y="655.94" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-179" value="192.168.20.100" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315.16999999999996" y="790" width="157.82" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="jiWG33mtaCor1uyyTD07-180" value="192.168.30.100" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="980" y="783" width="157.82" height="44.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
